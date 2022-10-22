@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akila Herath
-- 👀 I’m a Software Tester hoping to move into Automation testing
-- 🌱 I’m currently learning Selenium Automation using Python and API Testing 
+- 👀 I’m a Software Tester 
+- 🌱 I’m currently working on Seleium Automation projects using python
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on akila.sabherath@gmail.com
 
