@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akila Herath
 - 👀 I’m a Software Tester 
-- 🌱 I’m currently working on Seleium Automation projects using python
+- 🌱 I’m currently working as a Software Test Analyst intern at Audacix.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on akila.sabherath@gmail.com
 
